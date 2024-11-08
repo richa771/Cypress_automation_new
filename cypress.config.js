@@ -108,7 +108,7 @@ module.exports = defineConfig({
     runMode: 1,
 
   },
-  projectId: "nodpcq",
+  projectId: 'two9c4',
 
   e2e: {
     setupNodeEvents,
